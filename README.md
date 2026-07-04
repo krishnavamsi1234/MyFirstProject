@@ -34,7 +34,18 @@ I created this project to learn professional Git workflows including:
 
 ## 📂 Project Structure
 
+## 📚 Git Skills Learned
 
+- Git Init
+- Git Status
+- Git Add
+- Git Commit
+- Git Push
+- Git Pull
+- Git Clone
+- Git Branch
+- Git Merge
+- Pull Requests
 
 ---
 
